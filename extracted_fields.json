@@ -1,0 +1,122 @@
+{
+    "name": "MRS P J & SWATI L & J P GADA",
+    "billing_address": "0-4-B,FLOOR-2,PLOT-3A,GURDEVI MANSION,K ASUBRAMANYAM MARG,BRAHMANWADA KINGSCIRCLE,MATUNGA,MUMBAI-400019",
+    "power_supply_address": "5 ity D it Ward\n0-4-B, FLOOR-2,PLOT-3A,GURDEVI MANSION, K A ecurity Deposit : 3856.00 ar : FN\nSUBRAMANYAM MARG, BRAHMANWADA KINGS F P\nCIRCLE, MATUNGA, MUMBAI-400019",
+    "mobile_no": "98XXXXX156",
+    "email_id": "XXXXXXXXada@gmail.com",
+    "bill_for": "Aug-2024",
+    "date_of_bill": "16/08/2024",
+    "invoice_no": "408604571021",
+    "consumer_no": "604-571-021",
+    "c_a_no": "1890975",
+    "cycle": "09",
+    "type_of_supply": "3P",
+    "service_no": "312229-X-X",
+    "installation_no": "0540489",
+    "sanctioned_load": "18.980",
+    "security_deposit": "3856.00",
+    "last_payment_received": "10.00",
+    "last_payment_received_date": "02/08/2024",
+    "tariff": "LT I B",
+    "category": "RESIDENTIAL",
+    "ward": "0",
+    "current_bill_amount": "",
+    "past_dues": "",
+    "due_date": "",
+    "bill_amount_before_due": "",
+    "bill_amount_after_due": "",
+    "units_consumed": [
+        {
+            "units": 8828847,
+            "month": "North-24"
+        },
+        {
+            "units": 407,
+            "month": "May-24"
+        },
+        {
+            "units": 244,
+            "month": "Apr-24"
+        },
+        {
+            "units": 59,
+            "month": "Mar-24"
+        },
+        {
+            "units": 0,
+            "month": "Feb-24"
+        },
+        {
+            "units": 285,
+            "month": "Jan-24"
+        },
+        {
+            "units": 185,
+            "month": "Dec-23"
+        },
+        {
+            "units": 343,
+            "month": "Nov-23"
+        },
+        {
+            "units": 226,
+            "month": "Oct-23"
+        },
+        {
+            "units": 207,
+            "month": "Sep-23"
+        },
+        {
+            "units": 400019,
+            "month": "Aug-20"
+        },
+        {
+            "units": 208524277,
+            "month": "Jul-24"
+        },
+        {
+            "units": 274,
+            "month": "Jun-24"
+        },
+        {
+            "units": 407,
+            "month": "May-24"
+        },
+        {
+            "units": 244,
+            "month": "Apr-24"
+        },
+        {
+            "units": 59,
+            "month": "Mar-24"
+        },
+        {
+            "units": 0,
+            "month": "Feb-24"
+        },
+        {
+            "units": 285,
+            "month": "Jan-24"
+        },
+        {
+            "units": 185,
+            "month": "Dec-23"
+        },
+        {
+            "units": 343,
+            "month": "Nov-23"
+        },
+        {
+            "units": 226,
+            "month": "Oct-23"
+        },
+        {
+            "units": 207,
+            "month": "Sep-23"
+        },
+        {
+            "units": 24138,
+            "month": "Aug-23"
+        }
+    ]
+}
